@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Springboot,AWS,KAFKA,REDIS**
 
-- 👨‍💻 All of my projects are available at [https://bapanapalligopi.github.io/GopiPortfolio/](https://bapanapalligopi.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://bapanapalligopi.github.io/GopiPortfolio/](https://myportfolio1703.netlify.app/)
 
 - 💬 Ask me about **JAVA**
 
