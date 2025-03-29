@@ -7,7 +7,7 @@
 
 - 🌱 Java Developer at **Payswiff Technologies**  [https://payswiff.com/]
 
-- 🌱 I’m currently doing projects on  **FullStack Development using Java as BackEnd and ReactJs as FrontEnd**
+- 🌱 I can contribute in  **FullStack Development using Java as BackEnd and ReactJs as FrontEnd**
   
 - 👨‍💻 All of my projects are available at [https://bapanapalligopi.github.io/GopiPortfolio/](https://myportfolio1703.netlify.app/)
 
